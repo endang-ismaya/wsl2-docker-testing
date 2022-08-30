@@ -1,0 +1,23 @@
+{
+  "name": "docker-simple-bradschiff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/endang-ismaya/wsl2-docker-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/endang-ismaya/wsl2-docker-testing/issues"
+  },
+  "homepage": "https://github.com/endang-ismaya/wsl2-docker-testing#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
